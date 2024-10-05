@@ -11,8 +11,8 @@
 - Notları Silin: Artık ihtiyaç duyulmayan notları kaldırın.
 
 - Kalıcı Depolama: Notlarınız kaydedilir ve uygulama kapatılıp yeniden açıldıktan sonra bile erişilebilir.
-- 
-Kullanıcı Dostu Arayüz: Sorunsuz gezinme için temiz ve sezgisel kullanıcı arayüzü.
+
+- Kullanıcı Dostu Arayüz: Sorunsuz gezinme için temiz ve sezgisel kullanıcı arayüzü.
 
 ### Kütüphaneler
 
